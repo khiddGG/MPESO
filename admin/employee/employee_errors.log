@@ -1,0 +1,162 @@
+[2025-05-27 08:36:58] Starting employee creation process
+[2025-05-27 08:36:58] Generated EMPLOYEEID: 202505270836586724
+[2025-05-27 08:36:58] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 202505270836586724
+    [FNAME] => FN
+    [LNAME] => LN
+    [MNAME] => MN
+    [ADDRESS] => A
+    [BIRTHDATE] => 07/20/1995
+    [BIRTHPLACE] => POB
+    [AGE] => 29
+    [SEX] => 
+    [CIVILSTATUS] => Married
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => asass@gmail.com
+    [CELLNO] => 
+    [POSITION] => ICT
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 202505270836586724
+    [EMPPASSWORD] => a16ac06e7ae4f671bfd7d3f6e6695406e26eaec6
+    [DATEHIRED] => 2025-01-20
+    [COMPANYID] => 8
+)
+
+[2025-05-27 08:36:58] Failed to create employee. Database error: Incorrect date value: '07/20/1995' for column 'BIRTHDATE' at row 1 (Error No: 1292)
+[2025-05-27 08:53:14] Starting employee creation process
+[2025-05-27 08:53:14] Generated EMPLOYEEID: 202505270853143394
+[2025-05-27 08:53:14] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 202505270853143394
+    [FNAME] => fna
+    [LNAME] => Ln
+    [MNAME] => Mn
+    [ADDRESS] => Add
+    [BIRTHDATE] => 07/20/1995
+    [BIRTHPLACE] => POB
+    [AGE] => 29
+    [SEX] => 
+    [CIVILSTATUS] => Single
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => mars@gmail.com
+    [CELLNO] => 09360634339
+    [POSITION] => Post
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 202505270853143394
+    [EMPPASSWORD] => f65210cd280711cc4235d896daab89ce42e382c8
+    [DATEHIRED] => 2025-05-27
+    [COMPANYID] => 8
+)
+
+[2025-05-27 08:53:14] Failed to create employee. Database error: Incorrect date value: '07/20/1995' for column 'BIRTHDATE' at row 1 (Error No: 1292)
+[2025-05-27 08:57:56] Starting employee creation process
+[2025-05-27 08:57:56] Generated EMPLOYEEID: 202505270857565031
+[2025-05-27 08:57:56] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 202505270857565031
+    [FNAME] => Fname
+    [LNAME] => Lname
+    [MNAME] => Mname
+    [ADDRESS] => Add
+    [BIRTHDATE] => 07/20/1995
+    [BIRTHPLACE] => POB
+    [AGE] => 29
+    [SEX] => 
+    [CIVILSTATUS] => Single
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => mars@gmail.com
+    [CELLNO] => 09360634339
+    [POSITION] => POS
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 202505270857565031
+    [EMPPASSWORD] => 0c914f76d95857c1e9c309935c89ffb54e5789b8
+    [DATEHIRED] => 2025-05-27
+    [COMPANYID] => 8
+)
+
+[2025-05-27 08:57:56] Failed to create employee. Database error: Incorrect date value: '07/20/1995' for column 'BIRTHDATE' at row 1 (Error No: 1292)
+[2025-05-27 09:12:21] Starting employee creation process
+[2025-05-27 09:12:21] Generated EMPLOYEEID: 00078
+[2025-05-27 09:12:21] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 00078
+    [FNAME] => Mohammar
+    [LNAME] => Arabia
+    [MNAME] => Macabalang
+    [ADDRESS] => Marangas
+    [BIRTHDATE] => 07/20/1995
+    [BIRTHPLACE] => POB
+    [AGE] => 29
+    [SEX] => Male
+    [CIVILSTATUS] => Single
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => mars@gmail.com
+    [CELLNO] => 09360634339
+    [POSITION] => ICT
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 00078
+    [EMPPASSWORD] => 99cefa7318872ba11aefb658554598d6cb4f9c8e
+    [DATEHIRED] => 2025-05-27
+    [COMPANYID] => 8
+)
+
+[2025-05-27 09:12:21] Failed to create employee. Database error: Incorrect date value: '07/20/1995' for column 'BIRTHDATE' at row 1 (Error No: 1292)
+[2025-05-27 09:13:10] Starting employee creation process
+[2025-05-27 09:13:10] Generated EMPLOYEEID: 00078
+[2025-05-27 09:13:10] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 00078
+    [FNAME] => mars
+    [LNAME] => marsaz
+    [MNAME] => marsm
+    [ADDRESS] => add
+    [BIRTHDATE] => 07/20/1995
+    [BIRTHPLACE] => pob
+    [AGE] => 29
+    [SEX] => Male
+    [CIVILSTATUS] => Single
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => mars@gmail.com
+    [CELLNO] => 09360634339
+    [POSITION] => ICT
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 00078
+    [EMPPASSWORD] => 99cefa7318872ba11aefb658554598d6cb4f9c8e
+    [DATEHIRED] => 2025-05-27
+    [COMPANYID] => 8
+)
+
+[2025-05-27 09:13:10] Failed to create employee. Database error: Incorrect date value: '07/20/1995' for column 'BIRTHDATE' at row 1 (Error No: 1292)
+[2025-05-27 09:18:40] Starting employee creation process
+[2025-05-27 09:18:40] Generated EMPLOYEEID: 00078
+[2025-05-27 09:18:40] Attempting to create employee with data: Employee Object
+(
+    [EMPLOYEEID] => 00078
+    [FNAME] => Fname
+    [LNAME] => Lname
+    [MNAME] => Mname
+    [ADDRESS] => Add
+    [BIRTHDATE] => 1995-07-20
+    [BIRTHPLACE] => POB
+    [AGE] => 29
+    [SEX] => Male
+    [CIVILSTATUS] => Single
+    [TELNO] => 09360634339
+    [EMP_EMAILADDRESS] => Mars@gmail.com
+    [CELLNO] => 09360634339
+    [POSITION] => ICT
+    [WORKSTATS] => Regular
+    [EMPPHOTO] => default.jpg
+    [EMPUSERNAME] => 00078
+    [EMPPASSWORD] => 99cefa7318872ba11aefb658554598d6cb4f9c8e
+    [DATEHIRED] => 2025-05-27
+    [COMPANYID] => 8
+)
+
+[2025-05-27 09:18:40] Employee created successfully with ID: 00078
